@@ -1,0 +1,9 @@
+# Inkscape / FontForge temporary swap or backup files
+*~
+*.bak
+*.tmp
+
+# OS specific files
+.directory
+.DS_Store
+Thmubs.db
