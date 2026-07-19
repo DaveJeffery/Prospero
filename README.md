@@ -5,6 +5,7 @@ A typography and vector design project. This repository contains the source font
 ## 🛠 Project Structure
 
 * `/` — Project root containing core documentation and configuration.
+* `/export/` Export folder containing Plain SVG files for each glyph.
 * `*.sfd` — FontForge Spline Font Database source files (the main font project).
 * `*.svg` — Inkscape vector design assets and glyph layouts.
 * `*.jpg` / `*.png` — Source inspiration images and reference graphics.
@@ -17,4 +18,4 @@ To work on this project across different machines, ensure the following software
 2. **Inkscape** (Vector Graphics Editor)
 
 ### Clean Git Commits Tip
-Inkscape naturally saves editor metadata (window placement, zoom levels) inside standard SVGs. To keep your Git history clean and avoid massive text diffs, save vector files as **Plain SVG** or **Optimized SVG** via *File > Save As...* before committing
+Inkscape naturally saves editor metadata (window placement, zoom levels) inside standard SVGs. To keep your Git history clean and avoid massive text diffs, save vector files as **Plain SVG** or **Optimized SVG** via *File > Save As...* before exporting from Inkscape.
