@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="1000"
+   width="1000"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title2">Prospero Font SVG Source</title><defs
+     id="defs4" /><metadata
+     id="metadata7"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Prospero Font SVG Source</dc:title><dc:date>July 18, 2026</dc:date><dc:creator><cc:Agent><dc:title>Dave Jeffery</dc:title></cc:Agent></dc:creator><dc:contributor><cc:Agent><dc:title>Font originally designed by Alan Jeapes of the British Broadcasting Corporation.</dc:title></cc:Agent></dc:contributor><cc:license
+           rdf:resource="http://scripts.sil.org/OFL" /><dc:rights><cc:Agent><dc:title>released under Open Font Licence</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Dave Jeffery</dc:title></cc:Agent></dc:publisher><dc:language>British English</dc:language><dc:subject><rdf:Bag><rdf:li>COW</rdf:li><rdf:li>Jeapes</rdf:li><rdf:li>BBC</rdf:li><rdf:li>BBC ONE</rdf:li><rdf:li>BBC1</rdf:li><rdf:li>GEM</rdf:li><rdf:li>1985</rdf:li></rdf:Bag></dc:subject><dc:source>Scan obtained by Mark Boulton from Alan Jeapes's son.</dc:source></cc:Work><cc:License
+         rdf:about="http://scripts.sil.org/OFL"><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" /></cc:License></rdf:RDF></metadata><g
+     id="layer1"
+     style="display:none"
+     transform="translate(-4104.8284,-187.73312)"><image
+       width="12064.083"
+       height="9048.0625"
+       preserveAspectRatio="none"
+       xlink:href="../source_image.jpeg"
+       id="image1"
+       x="-3308.9749"
+       y="-2550.0364"
+       transform="rotate(-0.30790777)"
+       style="display:inline" /></g><g
+     id="layer6"
+     transform="translate(-4040)"><path
+       style="opacity:1;fill:#000000;fill-opacity:1"
+       d="m 4206.0479,120 c -2.3228,0.004 -4,-2.11438 -4,-4 0,-1.88562 1.7201,-4 4,-4 h 243.2448 c 2.3125,0 4.3125,2.03934 4.3125,4 0,1.96066 -1.9301,3.99225 -4.3125,4 -55.2647,0.17977 -70.5372,78.17627 -70.5372,121.47697 V 493.9939 l 329.7686,-298.48431 c 16.0124,-14.49338 22.2451,-34.2855 22.2451,-49.66361 0,-20.9071 -33.5122,-33.84598 -35.2266,-33.84598 -1.5767,0 -4,-2.11438 -4,-4 0,-1.88562 1.6045,-4 4,-4 h 230.4613 c 2.1884,0 4,2.11438 4,4 0,1.88562 -2.7499,4 -4,4 -16.6356,0 -75.1362,25.96845 -126.0183,71.90313 l -323.8424,292.3542 374.5198,446.33536 c 25.9477,30.92327 77.0835,38.34012 78.9319,39.40731 1.7202,0.99314 4,2.86563 4,5 0,2.13437 -1.5,5 -4,5 h -236.4163 c -1.625,0 -4,-2.86563 -4,-5 0,-2.13437 1.5625,-5 4,-5 2.1344,0 12.9464,-8.48593 12.9464,-17.375 0,-8.66044 -9.927,-32.46302 -22.7688,-47.7673 L 4384.6853,540.91559 c -0.594,-0.70791 -1.3095,-0.93769 -1.9348,-0.93769 -2.1861,0 -3.995,3.47478 -3.995,6.79242 v 357.2657 c 0,35.54948 36.2379,57.96398 65.941,57.96398 3.5027,0 6,2.39658 6,5 0,2.60342 -2.1855,5 -6,5 h -249.432 c -2.3423,0 -4.6629,-2.86563 -4.6629,-5 0,-2.13437 2.2322,-5 4.6629,-5 C 4224.9249,962 4265,921.529 4265,889.89389 V 193.92404 C 4265,164.91327 4242.9229,119.9412 4206.0479,120 Z"
+       id="path27" /></g></svg>
