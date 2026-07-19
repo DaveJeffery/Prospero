@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="1000"
+   width="1000"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title2">Prospero Font SVG Source</title><defs
+     id="defs4" /><metadata
+     id="metadata7"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Prospero Font SVG Source</dc:title><dc:date>July 18, 2026</dc:date><dc:creator><cc:Agent><dc:title>Dave Jeffery</dc:title></cc:Agent></dc:creator><dc:contributor><cc:Agent><dc:title>Font originally designed by Alan Jeapes of the British Broadcasting Corporation.</dc:title></cc:Agent></dc:contributor><cc:license
+           rdf:resource="http://scripts.sil.org/OFL" /><dc:rights><cc:Agent><dc:title>released under Open Font Licence</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Dave Jeffery</dc:title></cc:Agent></dc:publisher><dc:language>British English</dc:language><dc:subject><rdf:Bag><rdf:li>COW</rdf:li><rdf:li>Jeapes</rdf:li><rdf:li>BBC</rdf:li><rdf:li>BBC ONE</rdf:li><rdf:li>BBC1</rdf:li><rdf:li>GEM</rdf:li><rdf:li>1985</rdf:li></rdf:Bag></dc:subject><dc:source>Scan obtained by Mark Boulton from Alan Jeapes's son.</dc:source></cc:Work><cc:License
+         rdf:about="http://scripts.sil.org/OFL"><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" /></cc:License></rdf:RDF></metadata><g
+     id="layer1"
+     style="display:none"
+     transform="translate(-2084.8284,-187.73312)"><image
+       width="12064.083"
+       height="9048.0625"
+       preserveAspectRatio="none"
+       xlink:href="../source_image.jpeg"
+       id="image1"
+       x="-5057.4844"
+       y="-2547.5986"
+       transform="rotate(-0.48461653)"
+       style="display:none" /></g><g
+     id="layer2"
+     style="display:inline"
+     transform="translate(-2020)"><path
+       style="fill:#000000;fill-opacity:1"
+       d="M 2096.8519,104 H 2271 L 2520,775.5 2819.4487,104 h 160.9263 c 3.375,0 4.3957,1.94047 4.3957,4.48079 0,2.19172 -4.0091,3.85581 -7.7292,3.85581 -39.6906,0 -73.1386,52.81739 -72.2549,86.56424 l 17.6929,675.66516 c 0.3447,13.16432 1.8171,69.40051 58.9231,87.62321 3.2792,1.0464 8.4679,1.48132 8.4679,4.95219 0,2.85839 -3.2374,4.8586 -5.7455,4.8586 h -232.9375 c -4.7899,0 -6.1862,-2.76283 -6.3607,-4.81313 -0.1745,-2.0503 1.1533,-4.40599 3.1393,-4.93813 14.7322,-3.94749 59.6494,-14.84883 62.6546,-94.7519 L 2795.0928,274.50797 2484.64,994.96548 2218.5756,283.34386 2177.2764,873.9494 c -2.7295,39.03386 14.0525,80.90837 41.1695,88.17434 6.5701,1.76044 12.0271,1.5 12.0271,4.93813 0,4.13343 -4.7795,4.93813 -9.973,4.93813 h -158.8328 c -3.4362,0 -5.429,-1.83698 -5.429,-3.93813 0,-2.22408 2.0173,-3.33669 3.5955,-3.93813 28.8078,-10.97838 60.4629,-24.3783 64.5669,-83.06869 L 2167.0595,271 c 3.48,-49.76646 11.1027,-158.77656 -68.265,-158.77656 -4.7911,0 -6.8173,-2.00677 -6.8173,-4.11172 0,-2.41633 1.9561,-4.11172 4.8747,-4.11172 z"
+       id="path10" /></g></svg>
