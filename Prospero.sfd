@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1784451120
-ModificationTime: 1784530298
+ModificationTime: 1784531423
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ WinInfo: 64 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 259 11
+BeginChars: 259 12
 
 StartChar: N
 Encoding: 78 78 0
@@ -413,7 +413,7 @@ EndChar
 StartChar: D
 Encoding: 68 68 10
 Width: 1000
-Flags: HO
+Flags: H
 LayerCount: 2
 Fore
 SplineSet
@@ -436,6 +436,29 @@ SplineSet
  298 -103 336 -115 379 -115 c 4
  706 -115 814 53 814 267 c 4
  814 582 572 642 350 642 c 4
+EndSplineSet
+EndChar
+
+StartChar: C
+Encoding: 67 67 11
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+578 711 m 4
+ 766 711 836 660 840 658 c 4
+ 842 657 847 656 852 656 c 4
+ 857 656 862 654 864 656 c 5
+ 890 488 l 5
+ 890 488 812 658 576 658 c 4
+ 274 658 228 407 228 275 c 4
+ 228 53 394 -115 584 -115 c 4
+ 737 -115 817 -76 884 -48 c 5
+ 875 -87 l 5
+ 875 -87 753 -184 551 -184 c 4
+ 191 -184 106 145 106 264 c 4
+ 106 496 259 711 578 711 c 4
 EndSplineSet
 EndChar
 EndChars
