@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1784451120
-ModificationTime: 1784625426
+ModificationTime: 1784628235
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 48 16 4
+WinInfo: 16 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 263 40
+BeginChars: 263 46
 
 StartChar: N
 Encoding: 78 78 0
@@ -1263,6 +1263,119 @@ SplineSet
  489 -154 484 -153 478 -150 c 4
  456 -140 442 -118 442 -94 c 4
  442 -60 470 -32 504 -32 c 4
+EndSplineSet
+EndChar
+
+StartChar: exclam
+Encoding: 33 33 40
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+500 689 m 4
+ 532 689 557 664 557 632 c 4
+ 557 630 557 628 557 626 c 6
+ 557 626 l 5
+ 528 12 l 5
+ 476 12 l 5
+ 443 626 l 4
+ 443 628 443 630 443 632 c 4
+ 443 664 468 689 500 689 c 4
+562 -110 m 4
+ 562 -144 534 -172 500 -172 c 4
+ 466 -172 438 -144 438 -110 c 4
+ 438 -76 466 -48 500 -48 c 4
+ 534 -48 562 -76 562 -110 c 4
+EndSplineSet
+EndChar
+
+StartChar: quotesingle
+Encoding: 39 39 41
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+499 696 m 4
+ 544 696 564 661 564 627 c 4
+ 564 562 520 484 436 484 c 5
+ 436 512 l 5
+ 456 512 484 550 484 566 c 4
+ 484 574 479 575 473 578 c 4
+ 451 588 437 610 437 634 c 4
+ 437 668 465 696 499 696 c 4
+EndSplineSet
+EndChar
+
+StartChar: question
+Encoding: 63 63 42
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+532 696 m 4
+ 615 696 817 659 817 464 c 4
+ 817 258 582 167 533 134 c 5
+ 528 12 l 5
+ 476 12 l 5
+ 468 164 l 5
+ 468 164 702 299 702 458 c 4
+ 702 528 647 643 538 643 c 4
+ 388 643 296 502 296 502 c 5
+ 313 639 l 5
+ 383 672 449 696 532 696 c 4
+500 -48 m 4
+ 534 -48 562 -76 562 -110 c 4
+ 562 -144 534 -172 500 -172 c 4
+ 466 -172 438 -144 438 -110 c 4
+ 438 -76 466 -48 500 -48 c 4
+EndSplineSet
+EndChar
+
+StartChar: hyphen
+Encoding: 45 45 43
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+404 234 m 5
+ 404 277 l 5
+ 596 277 l 5
+ 596 234 l 5
+ 404 234 l 5
+EndSplineSet
+EndChar
+
+StartChar: parenleft
+Encoding: 40 40 44
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+614 726 m 4
+ 622 718 499 612 500 235 c 4
+ 501 -142 611 -215 604 -222 c 4
+ 597 -229 385 -83 386 250 c 4
+ 387 583 605 735 614 726 c 4
+EndSplineSet
+EndChar
+
+StartChar: parenright
+Encoding: 41 41 45
+Width: 1000
+Flags: HO
+LayerCount: 2
+Fore
+SplineSet
+386 726 m 4
+ 395 735 613 583 614 250 c 4
+ 615 -83 403 -229 396 -222 c 4
+ 389 -215 499 -142 500 235 c 4
+ 501 612 378 718 386 726 c 4
 EndSplineSet
 EndChar
 EndChars
