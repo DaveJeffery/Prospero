@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1784451120
-ModificationTime: 1784635858
+ModificationTime: 1784636441
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -50,11 +50,11 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 16 4
+WinInfo: 16 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 263 47
+BeginChars: 263 49
 
 StartChar: N
 Encoding: 78 78 0
@@ -1382,7 +1382,7 @@ EndChar
 StartChar: ampersand
 Encoding: 38 38 46
 Width: 1000
-Flags: HO
+Flags: H
 LayerCount: 2
 Fore
 SplineSet
@@ -1424,6 +1424,75 @@ SplineSet
  240 61 259 -98 432 -98 c 4
  534 -98 581 -32 581 -32 c 5
  581 -32 380 222 354 276 c 5
+EndSplineSet
+EndChar
+
+StartChar: sterling
+Encoding: 163 163 47
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+559 697 m 4
+ 651 697 669 688 759 635 c 5
+ 770 504 l 5
+ 770 504 707 646 566 646 c 4
+ 407 646 422 467 423 292 c 5
+ 596 292 l 5
+ 596 230 l 5
+ 426 230 l 5
+ 426 217 426 204 426 191 c 4
+ 426 -12 411 -82 386 -108 c 5
+ 502 -108 566 -118 623 -118 c 4
+ 725 -118 782 -38 782 -38 c 5
+ 735 -174 l 5
+ 735 -174 708 -188 668 -188 c 4
+ 572 -188 419 -169 361 -169 c 4
+ 303 -169 224 -174 224 -174 c 5
+ 224 -118 l 5
+ 283 -118 304 -46 305 3 c 4
+ 306 103 309 102 310 230 c 5
+ 242 230 l 5
+ 242 292 l 5
+ 310 292 l 5
+ 310 321 310 355 310 394 c 4
+ 310 671 467 697 559 697 c 4
+EndSplineSet
+EndChar
+
+StartChar: percent
+Encoding: 37 37 48
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+396 713 m 4
+ 495 713 546 587 546 495 c 4
+ 546 403 497 288 396 288 c 4
+ 295 288 240 395 240 495 c 4
+ 240 595 297 713 396 713 c 4
+776 698 m 5
+ 776 611 l 5
+ 238 -167 l 5
+ 238 -80 l 5
+ 776 698 l 5
+395 689 m 4
+ 325 689 297 584 297 495 c 4
+ 297 406 315 312 395 312 c 4
+ 475 312 489 413 489 495 c 4
+ 489 577 465 689 395 689 c 4
+620 249 m 4
+ 719 249 770 123 770 31 c 4
+ 770 -61 721 -176 620 -176 c 4
+ 519 -176 464 -69 464 31 c 4
+ 464 131 521 249 620 249 c 4
+619 225 m 4
+ 549 225 521 120 521 31 c 4
+ 521 -58 539 -152 619 -152 c 4
+ 699 -152 713 -51 713 31 c 4
+ 713 113 689 225 619 225 c 4
 EndSplineSet
 EndChar
 EndChars

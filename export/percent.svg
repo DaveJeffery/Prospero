@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   height="1000"
+   width="1000"
+   version="1.1"
+   id="svg1"
+   xml:space="preserve"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"><title
+     id="title2">Prospero Font SVG Source</title><defs
+     id="defs4" /><metadata
+     id="metadata7"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>Prospero Font SVG Source</dc:title><dc:date>July 18, 2026</dc:date><dc:creator><cc:Agent><dc:title>Dave Jeffery</dc:title></cc:Agent></dc:creator><dc:contributor><cc:Agent><dc:title>Font originally designed by Alan Jeapes of the British Broadcasting Corporation.</dc:title></cc:Agent></dc:contributor><cc:license
+           rdf:resource="http://scripts.sil.org/OFL" /><dc:rights><cc:Agent><dc:title>released under Open Font Licence</dc:title></cc:Agent></dc:rights><dc:publisher><cc:Agent><dc:title>Dave Jeffery</dc:title></cc:Agent></dc:publisher><dc:language>British English</dc:language><dc:subject><rdf:Bag><rdf:li>COW</rdf:li><rdf:li>Jeapes</rdf:li><rdf:li>BBC</rdf:li><rdf:li>BBC ONE</rdf:li><rdf:li>BBC1</rdf:li><rdf:li>GEM</rdf:li><rdf:li>1985</rdf:li></rdf:Bag></dc:subject><dc:source>Scan obtained by Mark Boulton from Alan Jeapes's son.</dc:source></cc:Work><cc:License
+         rdf:about="http://scripts.sil.org/OFL"><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Reproduction" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Distribution" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/Embedding" /><cc:permits
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeWorks" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Notice" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/Attribution" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/ShareAlike" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/DerivativeRenaming" /><cc:requires
+           rdf:resource="http://scripts.sil.org/pub/OFL/BundlingWhenSelling" /></cc:License></rdf:RDF></metadata><g
+     id="layer1"
+     style="display:none"
+     transform="translate(-49528.828,-187.73312)"><image
+       width="12143.697"
+       height="9107.7715"
+       preserveAspectRatio="none"
+       xlink:href="../source_image.jpeg"
+       id="image1"
+       x="40040.199"
+       y="-4860.9565"
+       transform="rotate(-0.42706528)"
+       style="display:none" /></g><g
+     id="layer50"
+     transform="translate(-49490)"><path
+       id="path68-5"
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke-width:0.484377"
+       d="m 49886.439,87.296875 c -99.072,0 -156.183,117.546075 -156.183,217.955075 0,100.40898 55.658,207.08594 156.183,207.08594 100.525,0 149.161,-114.97648 149.161,-207.08594 0,-92.10947 -50.09,-217.955075 -149.161,-217.955075 z m 380.026,14.343745 -538.473,778 v 87.68165 l 538.473,-778 z m -381.324,9.63282 c 70.289,0 93.963,111.64761 93.963,193.36523 0,81.71763 -14.355,183.72071 -93.963,183.72071 -79.609,0 -98.389,-94.63992 -98.389,-183.72071 0,-89.08078 28.1,-193.36523 98.389,-193.36523 z m 225.298,440.02344 c -99.072,0 -156.183,117.54607 -156.183,217.95507 0,100.40898 55.658,207.08594 156.183,207.08594 100.525,0 149.161,-114.97648 149.161,-207.08594 0,-92.10947 -50.09,-217.95507 -149.161,-217.95507 z m -1.298,23.97656 c 70.289,0 93.963,111.64761 93.963,193.36523 0,81.71763 -14.355,183.7207 -93.963,183.72071 -79.609,0 -98.389,-94.63992 -98.389,-183.72071 0,-89.08078 28.1,-193.36523 98.389,-193.36523 z" /></g></svg>
