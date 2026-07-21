@@ -21,7 +21,7 @@ OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 1
 CreationTime: 1784451120
-ModificationTime: 1784623448
+ModificationTime: 1784625426
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -54,7 +54,7 @@ WinInfo: 48 16 4
 BeginPrivate: 0
 EndPrivate
 TeXData: 1 0 0 346030 173015 115343 0 1048576 115343 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
-BeginChars: 263 36
+BeginChars: 263 40
 
 StartChar: N
 Encoding: 78 78 0
@@ -1187,6 +1187,82 @@ SplineSet
  301 73 340 -122 504 -122 c 4
  668 -122 698 88 698 257 c 4
  698 426 649 656 504 656 c 4
+EndSplineSet
+EndChar
+
+StartChar: comma
+Encoding: 44 44 36
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+500 -38 m 4
+ 545 -38 565 -73 565 -107 c 4
+ 565 -172 521 -250 437 -250 c 5
+ 437 -222 l 5
+ 457 -222 485 -184 485 -168 c 4
+ 485 -160 480 -159 474 -156 c 4
+ 452 -146 438 -124 438 -100 c 4
+ 438 -66 466 -38 500 -38 c 4
+EndSplineSet
+EndChar
+
+StartChar: period
+Encoding: 46 46 37
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+562 -100 m 4
+ 562 -134 534 -162 500 -162 c 4
+ 466 -162 438 -134 438 -100 c 4
+ 438 -66 466 -38 500 -38 c 4
+ 534 -38 562 -66 562 -100 c 4
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 38
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+500 332 m 4
+ 534 332 562 304 562 270 c 4
+ 562 236 534 208 500 208 c 4
+ 466 208 438 236 438 270 c 4
+ 438 304 466 332 500 332 c 4
+500 -38 m 4
+ 534 -38 562 -66 562 -100 c 4
+ 562 -134 534 -162 500 -162 c 4
+ 466 -162 438 -134 438 -100 c 4
+ 438 -66 466 -38 500 -38 c 4
+EndSplineSet
+EndChar
+
+StartChar: semicolon
+Encoding: 59 59 39
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+500 332 m 4
+ 534 332 562 304 562 270 c 4
+ 562 236 534 208 500 208 c 4
+ 466 208 438 236 438 270 c 4
+ 438 304 466 332 500 332 c 4
+504 -32 m 4
+ 549 -32 569 -67 569 -101 c 4
+ 569 -166 525 -244 441 -244 c 5
+ 441 -217 l 5
+ 461 -217 489 -178 489 -162 c 4
+ 489 -154 484 -153 478 -150 c 4
+ 456 -140 442 -118 442 -94 c 4
+ 442 -60 470 -32 504 -32 c 4
 EndSplineSet
 EndChar
 EndChars
